@@ -1,0 +1,26 @@
+body {
+    height:100%;
+    width:100%
+}
+nav {
+    background-color: #000;
+    height: 10vh;
+    padding: 15px 30px;
+  }
+  main {
+    min-height: 80vh;
+    background-color: lightgray;
+  }
+  .container {
+    margin: auto;
+    background-color: white;
+    width: 60%;
+    height: 70vh;
+  }
+  .footer {
+    margin: auto;
+    background-color: black;
+    width: 60%;
+    height: 10vh;
+  }
+  
