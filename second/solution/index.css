@@ -17,6 +17,7 @@ body {
   background-color: blueviolet;
   display: inline-block;
 }
+
 .square-two {
   height: 200px;
   width: 400px;
@@ -24,6 +25,7 @@ body {
   background-color: forestgreen;
   margin: 0 50px;
 }
+
 .circle-one {
   height: 200px;
   width: 200px;
@@ -37,7 +39,7 @@ body {
   border: 5px dotted black;
   padding: 50px;
   box-sizing: border-box ;
-  margin-top: 25px; 
+  margin-top: 50px; 
 }
 
 .box-shadow {
@@ -47,6 +49,7 @@ body {
   -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  padding:25px;
 }
 
 .container-three {
